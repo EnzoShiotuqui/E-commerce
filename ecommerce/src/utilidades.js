@@ -6,7 +6,7 @@ export const catalogo = [
     preco: 70,
     imagem: "product-1.jpg",
     feminino: false,
-  },
+  }, 
   {
     id: "2",
     marca: "Zara",

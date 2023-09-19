@@ -4,7 +4,7 @@ const idsProdutoCarrinhoComQuantidade = lerLocalStorage("carrinho") ?? {};
 
 function abrirCarrinho() {
   document.getElementById("carrinho").classList.add("right-[0px]");
-  document.getElementById("carrinho").classList.remove("right-[-360px]");
+  document.getElementById("carr inho").classList.remove("right-[-360px]");
 }
 
 function fecharCarrinho() {
